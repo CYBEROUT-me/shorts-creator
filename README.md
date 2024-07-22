@@ -4,8 +4,8 @@
 - **Enter your API key for AssemblyAI.**
 
 ### Installation
-1. **ffmpeg.exe**
-2. **ffprobe.exe**
+1. **ffmpeg**
+2. **ffprobe**
 
 ### Required Libraries
 - `moviepy.editor`
